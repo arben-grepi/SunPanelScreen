@@ -9,33 +9,38 @@
         </mxCell>
         <mxCell id="KI7qUFwzVZCrHmOiPdN4-65" value="K&#39;äytetään figma.com&amp;nbsp;&lt;div&gt;frontendin suunnitteluun&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KI7qUFwzVZCrHmOiPdN4-64">
           <mxGeometry x="-0.0077" y="4" relative="1" as="geometry">
-            <mxPoint x="15" y="-14" as="offset" />
+            <mxPoint x="18" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KI7qUFwzVZCrHmOiPdN4-0" value="Frontend" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="130" width="315" height="157" as="geometry" />
-        </mxCell>
-        <mxCell id="KI7qUFwzVZCrHmOiPdN4-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KI7qUFwzVZCrHmOiPdN4-0" source="KI7qUFwzVZCrHmOiPdN4-51" target="KI7qUFwzVZCrHmOiPdN4-55">
+        <mxCell id="KI7qUFwzVZCrHmOiPdN4-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KI7qUFwzVZCrHmOiPdN4-0" target="KI7qUFwzVZCrHmOiPdN4-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KI7qUFwzVZCrHmOiPdN4-51" value="Käytetään Viteä työkaluna applikaation luomiesessa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KI7qUFwzVZCrHmOiPdN4-0">
-          <mxGeometry x="7.5" y="40" width="300" height="30" as="geometry" />
+        <mxCell id="KI7qUFwzVZCrHmOiPdN4-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KI7qUFwzVZCrHmOiPdN4-0" target="KI7qUFwzVZCrHmOiPdN4-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KI7qUFwzVZCrHmOiPdN4-55" value="&lt;div&gt;Ohjelmistokielenä React.js&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KI7qUFwzVZCrHmOiPdN4-0">
-          <mxGeometry x="77.5" y="102" width="160" height="30" as="geometry" />
+        <mxCell id="KI7qUFwzVZCrHmOiPdN4-0" value="Frontend" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="270" width="335" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="KI7qUFwzVZCrHmOiPdN4-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.15;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KI7qUFwzVZCrHmOiPdN4-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="510" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="720" y="603" />
-              <mxPoint x="720" y="548" />
-              <mxPoint x="740" y="548" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="KI7qUFwzVZCrHmOiPdN4-51" value="Käytetään Viteä työkaluna&amp;nbsp;&lt;div&gt;applikaation luomiesessa&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KI7qUFwzVZCrHmOiPdN4-0">
+          <mxGeometry y="50" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KI7qUFwzVZCrHmOiPdN4-55" value="&lt;div&gt;Ohjelmistokielenä&amp;nbsp;&lt;/div&gt;&lt;div&gt;React.js&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KI7qUFwzVZCrHmOiPdN4-0">
+          <mxGeometry x="180" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KI7qUFwzVZCrHmOiPdN4-85" value="" style="swimlane;startSize=0;" vertex="1" parent="KI7qUFwzVZCrHmOiPdN4-0">
+          <mxGeometry x="15" y="110" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KI7qUFwzVZCrHmOiPdN4-88" value="Reaaliaikaiset&amp;nbsp;&lt;div&gt;tiedot&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KI7qUFwzVZCrHmOiPdN4-85">
+          <mxGeometry x="17.5" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KI7qUFwzVZCrHmOiPdN4-86" value="" style="swimlane;startSize=0;" vertex="1" parent="KI7qUFwzVZCrHmOiPdN4-0">
+          <mxGeometry x="172.5" y="110" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KI7qUFwzVZCrHmOiPdN4-87" value="Historiatiedot" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KI7qUFwzVZCrHmOiPdN4-86">
+          <mxGeometry x="22.5" y="25" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KI7qUFwzVZCrHmOiPdN4-2" value="MongoDB, pyörii paikallisella palvelimella.&amp;nbsp;&lt;div&gt;Clientina käytetään&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;MongoDB Compassia&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="585" width="250" height="120" as="geometry" />
+          <mxGeometry x="690" y="690" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KI7qUFwzVZCrHmOiPdN4-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KI7qUFwzVZCrHmOiPdN4-3" target="KI7qUFwzVZCrHmOiPdN4-57">
           <mxGeometry relative="1" as="geometry" />
@@ -44,13 +49,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KI7qUFwzVZCrHmOiPdN4-3" value="Backend" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="273" width="220" height="80" as="geometry" />
+          <mxGeometry x="690" y="273" width="220" height="157" as="geometry" />
         </mxCell>
         <mxCell id="KI7qUFwzVZCrHmOiPdN4-41" value="express" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KI7qUFwzVZCrHmOiPdN4-3">
-          <mxGeometry x="118" y="38" width="70" height="30" as="geometry" />
+          <mxGeometry x="130" y="68" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KI7qUFwzVZCrHmOiPdN4-38" value="Node.js" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KI7qUFwzVZCrHmOiPdN4-3">
-          <mxGeometry x="23" y="38" width="60" height="30" as="geometry" />
+          <mxGeometry x="23" y="68" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KI7qUFwzVZCrHmOiPdN4-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KI7qUFwzVZCrHmOiPdN4-3" source="KI7qUFwzVZCrHmOiPdN4-38" target="KI7qUFwzVZCrHmOiPdN4-41">
           <mxGeometry relative="1" as="geometry" />
@@ -67,19 +72,18 @@
           <mxGeometry x="720" y="150" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KI7qUFwzVZCrHmOiPdN4-52" value="Figma.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KI7qUFwzVZCrHmOiPdN4-57" value="Tallennetaan tietokantaan päivittäin päivän energia tiedot.&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="827" y="410" width="144" height="80" as="geometry" />
+          <mxGeometry x="827" y="535" width="144" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KI7qUFwzVZCrHmOiPdN4-60" value="Haetaan tietokannasta päivittäin historiatiedot, joita käsitellään backendissä.&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="641" y="410" width="144" height="100" as="geometry" />
+        <mxCell id="KI7qUFwzVZCrHmOiPdN4-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KI7qUFwzVZCrHmOiPdN4-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="316" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="KI7qUFwzVZCrHmOiPdN4-67" value="Haetaan Backendistä" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="253" width="164" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="KI7qUFwzVZCrHmOiPdN4-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.071;entryY=0.329;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KI7qUFwzVZCrHmOiPdN4-0" target="KI7qUFwzVZCrHmOiPdN4-43">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KI7qUFwzVZCrHmOiPdN4-67" value="Haetaan backendistä historiatietoja" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="296" width="154" height="57" as="geometry" />
         </mxCell>
         <mxCell id="KI7qUFwzVZCrHmOiPdN4-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.071;entryY=0.309;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KI7qUFwzVZCrHmOiPdN4-43" target="KI7qUFwzVZCrHmOiPdN4-8">
           <mxGeometry relative="1" as="geometry" />
@@ -89,6 +93,23 @@
         </mxCell>
         <mxCell id="KI7qUFwzVZCrHmOiPdN4-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.71;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KI7qUFwzVZCrHmOiPdN4-57" target="KI7qUFwzVZCrHmOiPdN4-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KI7qUFwzVZCrHmOiPdN4-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KI7qUFwzVZCrHmOiPdN4-67" target="KI7qUFwzVZCrHmOiPdN4-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KI7qUFwzVZCrHmOiPdN4-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.15;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KI7qUFwzVZCrHmOiPdN4-2" target="KI7qUFwzVZCrHmOiPdN4-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="510" as="targetPoint" />
+            <mxPoint x="690" y="708" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="720" y="603" />
+              <mxPoint x="720" y="548" />
+              <mxPoint x="740" y="548" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KI7qUFwzVZCrHmOiPdN4-60" value="Haetaan tietokannasta päivittäin historiatiedot, joita käsitellään backendissä.&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="629" y="535" width="144" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
